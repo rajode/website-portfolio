@@ -29,7 +29,7 @@ export default function Portfolio() {
        
 
         <div className="item">
-            <img src={'../public/assets/courseregistration.png'} alt="" />
+            <img src={'assets/courseregistration.png'} alt="" />
         <h3>Course Registration</h3>
         </div>
 
