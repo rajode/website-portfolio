@@ -13,15 +13,24 @@ export default function Portfolio() {
       <h1>My Projects</h1>
       
       <div className="container">
-
-        <div className="item">
-            <img src="assets/discord-bot.png" alt="" />
-        <h3>Discord Bot</h3>
-        </div>
       
         <div className="item">
+          <a href="https://github.com/rajode/personalprojects/tree/main/toolshop" target="_blank">
+            <img src="assets/solarSystem.png" alt="" />
+          </a>
+        <h3>Solar System Animated Model</h3>
+        </div>
+
+        <div className="item">
+          <a href="https://github.com/Navjotsk/SENG513_Final_Project" target="_blank">
+            <img src="assets/madlibs.png" alt="" />
+          </a>
+        <h3>MadLibs Game</h3>
+        </div>
+
+        <div className="item">
             <a href="https://github.com/rajode/personalprojects/tree/main/toolshop" target="_blank">
-              <img src="assets/toolshop.jpg" alt="" />
+              <img src="assets/toolshop.jpg" />
             </a>
         <h3>ToolShop App</h3>
         </div>
@@ -29,7 +38,9 @@ export default function Portfolio() {
        
 
         <div className="item">
+          <a href="https://github.com/rajode/Student_Course_Registration" target="_blank">
             <img src={'assets/courseregistration.png'} alt="" />
+          </a>
         <h3>Course Registration</h3>
         </div>
 
@@ -39,7 +50,9 @@ export default function Portfolio() {
         </div>
 
         <div className="item">
-            <img src="assets/tictactoe.png" alt="" />
+          <a href="https://github.com/rajode/personalprojects/tree/main/TicTacToe" target="_blank">
+              <img src="assets/tictactoe.png" alt="" />
+          </a>
         <h3>Tic-Tac-Toe</h3>
         </div>
         
