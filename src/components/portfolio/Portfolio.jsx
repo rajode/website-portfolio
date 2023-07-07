@@ -1,4 +1,3 @@
-
 import "./portfolio.scss";
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 import ExpandLessIcon from '@material-ui/icons/ExpandLess';
@@ -15,7 +14,7 @@ export default function Portfolio() {
       <div className="container">
         <div className="item">
             <a href="https://github.com/rajode/facebookClone/" target="_blank">
-              <img src="assets/solarSystem.png" alt="" />
+              <img src="assets/facebook.png" alt="" />
             </a>
           <h3>Facebook/Social Media Clone</h3>
         </div>
